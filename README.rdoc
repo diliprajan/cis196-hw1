@@ -1,2 +1,12 @@
 == README
+Name: Dilip Rajan
+CIS 196: Web Development with Ruby on Rails
 
+URL of Heroku App: stormy-reaches-1103.herokuapp.com
+
+Process and Issues:
+1. I installed Ruby and Rails on Linux (ubuntu) using rvm.
+2. I created a new rails app and viewed it locally after running rails server.
+3. I created a new repo on GitHub and I committed all the files.
+4. I tried to deploy to Heroku but ran into the problem with the sqlite gem and fixed that in the Gemfile
+5. I then successdully deployed the app to heroku and updated this readme with the URL and my process.
